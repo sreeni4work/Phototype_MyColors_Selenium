@@ -1503,6 +1503,7 @@ public class PT_MyColors_Products extends BasePages {
 				//colorExist = true;
 				ResultsLog.ReportDoneEvent("Color: "+color.trim()+" appended");
 				System.out.println("Color: "+color.trim());
+				System.out.println("*********** GitHub Testing ************* ");
 			}else			{
 				System.out.println("Color: " + Color_Change + " not exist in application ");
 			}			
